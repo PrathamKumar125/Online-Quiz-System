@@ -1,6 +1,15 @@
 # Online Quiz System
 
 A modern web application for creating and managing online quizzes, built with FastAPI backend and React frontend.
+![Screenshot 2025-02-19 011940](https://github.com/user-attachments/assets/51bb4ac7-15a0-4d95-a64a-7e1a1f7238c1)
+
+<br>
+
+![Screenshot 2025-02-19 012010](https://github.com/user-attachments/assets/6ad9fa59-c260-4781-8ff2-04be018036e3)
+
+
+
+<br>
 
 ## Project Structure
 
