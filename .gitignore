@@ -1,0 +1,97 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+*.log
+celerybeat-schedule
+celerybeat.pid
+*.rdb
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Database
+*.sqlite3
+*.db
+
+# Redis dump
+dump.rdb
+
+# Prometheus data
+prometheus_data/
+
+# Project volumes
+postgres_data/
+redis_data/
+prometheus_data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development
+local_settings.py
+db.sqlite3
+media/
+
+# Misc
+*.bak
+*.tmp
+*.temp
+.*.swp
+*~
